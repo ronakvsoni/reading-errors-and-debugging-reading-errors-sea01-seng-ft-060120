@@ -1,5 +1,5 @@
-x = 1
+x1 = 1
 
-x = 4
-puts x+x
+x2 = 4
+puts x1+x2
  
