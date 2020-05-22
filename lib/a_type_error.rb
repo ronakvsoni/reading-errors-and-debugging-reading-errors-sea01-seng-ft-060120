@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
+puts "hi" + "is the loneliest number"
